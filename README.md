@@ -12,7 +12,7 @@
 </div>
 
 <p align="center" align='right'>
-  <a ![telegram] target="_blank" href="https://t.me/smart_cui"><img
+  <a ![telegram] target="_blank" href="https://t.me/smart_coder0407"><img
       src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;
   <a ![Gmail] target="_blank" href="hello.cuiyang@gmail.com"><img
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
